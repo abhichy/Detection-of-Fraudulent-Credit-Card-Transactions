@@ -7,6 +7,7 @@ To increase the model's performance, I additionally experiment with other featur
 The project's findings will provide important insights into the performance and interpretability of various machine learning models for credit card fraud detection. The findings can help to develop robust and effective fraud detection tools in the banking industry, hence reducing the financial losses connected with credit card fraud.
 
 Dataset: - Using Credit Card Fraudulent Dataset from Kaggle. 
+
 Link: - Credit Card Fraud Detection | Kaggle
 
 To preserve cardholder privacy, the dataset is normally encrypted (V1 - V28), and it may include information such as transaction amount, transaction time, transaction type, and other transaction-related information. To ensure that the data is suitable for machine learning algorithms, the dataset is preprocessed to manage missing values, outliers, and data imbalance issues.
